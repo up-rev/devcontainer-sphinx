@@ -19,6 +19,7 @@ RUN apt-get update && apt-get install -y --fix-missing --no-install-recommends \
     python3-pip \
     python3-setuptools \
     plantuml \
+    graphviz \
     texlive \
     latexmk \
     texlive-science \
